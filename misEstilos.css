@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(2, 54, 9);    
+}
+
+label{
+    color: aqua;
+}
+
+h1{ 
+    color: bisque;
+    font-style: italic;
+}
+
+button{
+    background-color: rgb(116, 116, 245);
+}
